@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="150" height="auto">
-</p>
-
 <h1 align="center">Hello, I'm Jan Taran! 👋</h1>
 
 <p align="center">

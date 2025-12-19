@@ -47,10 +47,10 @@ In the near future, I plan to dive deeper into neural networks, deep learning, a
 </p>
 
 ## Some of my Projects
-* <a href="https://github.com/Wysocki-Piotr/Hyperparameter-optimization"> **Hyperparameter optimization** </a> - [Optimazing hyperparameters for 3 different models in scikit-learn. Learning about different methods to find the hyperparameters and in general about optimization.]
+* <a href="https://github.com/Wysocki-Piotr/Hyperparameter-optimization"> **Hyperparameter optimization** </a> - [Optimizing hyperparameters for 3 different models in scikit-learn. Learning about different methods to find the hyperparameters and in general about optimization.]
 * <a href="https://github.com/Wysocki-Piotr/AutoML-system-binary-classification"> **AutoML-system-binary-classification** </a> - [Creating a simple automatic machine learning class for binary classification.]
-* <a href="https://github.com/Pablo1337PL/JetBrains-Interships-Projects"> **JetBrains-Interships-Projects** </a> - [Some of my projects that I have done for recruitment process for JetBrains interships.]
-* <a href="https://github.com/Pablo1337PL/Web-App-in-Django"> **WebApp in Django** </a> - [Simple WebApp written in Python Django using AJAX functionality and SQLite for database connection.]
+* <a href="https://github.com/Pablo1337PL/JetBrains-Interships-Projects"> **JetBrains-Interships-Projects** </a> - [Some of my projects that I have done during recruitment process for JetBrains interships.]
+* <a href="https://github.com/Pablo1337PL/Web-App-in-Django"> **WebApp in Django** </a> - [Simple WebApp written in Python Django using AJAX functionality and SQLite for database.]
 * <a href="https://github.com/Pablo1337PL/TWD-Project-2"> **R Shiny App** </a> - [Small app written in R Shiny to create dashboard visualising some part of my and my friends life.]
 * <a href="https://github.com/Pablo1337PL/Heart-Disease-Data-Visualization-project"> **Visualization project about heart disease** </a> - [Project made to visualise problems connected to heart diseases in USA.] 
 

@@ -23,7 +23,7 @@ I'm a Data Science student at the **Faculty of Mathematics and Computer Science,
 
 My work sits at the intersection of **machine learning, data engineering, and software development** — I'm equally comfortable building an ELT pipeline on Azure, training a neural network from scratch, or scraping and analysing a messy real-world dataset.
 
-Mathematically, I'm drawn to **probability theory, statistics, and optimisation** — I find them endlessly useful for understanding what data is actually trying to say. On the applied side, I'm currently most excited about **deep reinforcement learning**, in the near future I plan to fice deeper into eXplainable AI.
+Mathematically, I'm drawn to **probability theory, statistics, and optimisation** — I find them endlessly useful for understanding what data is actually trying to say. On the applied side, I'm currently most excited about **deep reinforcement learning**, in the near future I plan to dive deeper into eXplainable AI.
 
 Outside of code I spend time in the mountains — climbing, cycling, and kayaking.
 
